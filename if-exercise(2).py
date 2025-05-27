@@ -1,4 +1,4 @@
-""" Exercise: Python If Condition
+ """ Exercise: Python If Condition
  2. Write a python program that can tell you if your sugar is normal or not. Normal fasting level sugar range is 80 to 100.
      i. Ask user to enter his fasting sugar level
      ii. If it is below 80 to 100 range then print that sugar is low
